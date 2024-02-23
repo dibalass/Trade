@@ -1,0 +1,711 @@
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Images\B111C5.jpeg
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Images\E112C6.jpg
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Images\K839K3.jpg
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Images\L293S9.jpg
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Images\M112C8.jpg
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Images\M294G9.jpg
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Images\M398S9.jpg
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Images\N283K3.jpg
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Images\S384K2.jpg
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Images\T238C7.jpg
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Trade.exe
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Trade.deps.json
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Trade.runtimeconfig.json
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Trade.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Trade.pdb
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Trade.csproj.AssemblyReference.cache
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Views\ProductsWindow.g.cs
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Trade_Content.g.cs
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Trade_MarkupCompile.cache
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Trade_MarkupCompile.lref
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\App.baml
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Views\ProductsWindow.baml
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Trade.g.resources
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Trade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Trade.AssemblyInfoInputs.cache
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Trade.AssemblyInfo.cs
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Trade.csproj.CoreCompileInputs.cache
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Trade.csproj.CopyComplete
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Trade.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\refint\Trade.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Trade.pdb
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Trade.genruntimeconfig.cache
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\ref\Trade.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\bin\Debug\net8.0-windows\Images\nophoto.jpg
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Trade.csproj.AssemblyReference.cache
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Views\AddProductWindow.g.cs
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Views\ProductsWindow.g.cs
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\App.g.cs
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Trade_Content.g.cs
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Trade_MarkupCompile.cache
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Trade_MarkupCompile.lref
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Trade.dll
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\refint\Trade.dll
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Trade.pdb
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Images\B111C5.jpeg
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Images\E112C6.jpg
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Images\K839K3.jpg
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Images\L293S9.jpg
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Images\M112C8.jpg
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Images\M294G9.jpg
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Images\M398S9.jpg
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Images\N283K3.jpg
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Images\nophoto.jpg
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Images\S384K2.jpg
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Images\T238C7.jpg
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Trade.exe
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Trade.deps.json
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Trade.runtimeconfig.json
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Trade.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Trade.pdb
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Практика Михайлов\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\App.baml
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Views\AddProductWindow.baml
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Views\ProductsWindow.baml
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Trade.g.resources
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Trade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Trade.AssemblyInfoInputs.cache
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Trade.AssemblyInfo.cs
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Trade.csproj.CoreCompileInputs.cache
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Trade.csproj.CopyComplete
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\Trade.genruntimeconfig.cache
+D:\Практика Михайлов\WPF\Trade\obj\Debug\net8.0-windows\ref\Trade.dll
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Views\AddProductWindow.g.cs
+C:\Users\Stepan.B0_0m8ERm4n\Desktop\WPF\Trade\obj\Debug\net8.0-windows\Views\AddProductWindow.baml
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\B111C5.jpeg
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\E112C6.jpg
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\K839K3.jpg
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\L293S9.jpg
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\M112C8.jpg
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\M294G9.jpg
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\M398S9.jpg
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\N283K3.jpg
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\nophoto.jpg
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\S384K2.jpg
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\T238C7.jpg
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Trade.exe
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Trade.deps.json
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Trade.runtimeconfig.json
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Trade.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Trade.pdb
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Azure.Core.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Azure.Identity.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Humanizer.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.Memory.Data.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.csproj.AssemblyReference.cache
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Views\AddProductWindow.g.cs
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Views\ProductsWindow.g.cs
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\App.g.cs
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade_Content.g.cs
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade_MarkupCompile.cache
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade_MarkupCompile.lref
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\App.baml
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Views\AddProductWindow.baml
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Views\ProductsWindow.baml
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.g.resources
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.GeneratedMSBuildEditorConfig.editorconfig
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.AssemblyInfoInputs.cache
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.AssemblyInfo.cs
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.csproj.CoreCompileInputs.cache
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.csproj.CopyComplete
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\refint\Trade.dll
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.pdb
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.genruntimeconfig.cache
+J:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\ref\Trade.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\B111C5.jpeg
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\E112C6.jpg
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\K839K3.jpg
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\L293S9.jpg
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\M112C8.jpg
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\M294G9.jpg
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\M398S9.jpg
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\N283K3.jpg
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\nophoto.jpg
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\S384K2.jpg
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Images\T238C7.jpg
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Trade.exe
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Trade.deps.json
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Trade.runtimeconfig.json
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Trade.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Trade.pdb
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.csproj.AssemblyReference.cache
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Views\AddProductWindow.g.cs
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Views\ProductsWindow.g.cs
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\App.g.cs
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade_Content.g.cs
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade_MarkupCompile.cache
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade_MarkupCompile.lref
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\App.baml
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Views\AddProductWindow.baml
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Views\ProductsWindow.baml
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.g.resources
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.AssemblyInfoInputs.cache
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.AssemblyInfo.cs
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.csproj.CoreCompileInputs.cache
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.csproj.CopyComplete
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\refint\Trade.dll
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.pdb
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\Trade.genruntimeconfig.cache
+D:\Практика Михайлов\Практика 5 (06.12.23)\WPF\Trade\obj\Debug\net8.0-windows\ref\Trade.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Images\B111C5.jpeg
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Images\E112C6.jpg
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Images\K839K3.jpg
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Images\L293S9.jpg
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Images\M112C8.jpg
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Images\M294G9.jpg
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Images\M398S9.jpg
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Images\N283K3.jpg
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Images\nophoto.jpg
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Images\S384K2.jpg
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Images\T238C7.jpg
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Trade.exe
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Trade.deps.json
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Trade.runtimeconfig.json
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Trade.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Trade.pdb
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Trade.csproj.AssemblyReference.cache
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Views\AddProductWindow.g.cs
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Views\ProductsWindow.g.cs
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Trade_Content.g.cs
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Trade_MarkupCompile.cache
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Trade_MarkupCompile.lref
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\App.baml
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Views\AddProductWindow.baml
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Views\ProductsWindow.baml
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Trade.g.resources
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Trade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Trade.AssemblyInfoInputs.cache
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Trade.AssemblyInfo.cs
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Trade.csproj.CoreCompileInputs.cache
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Trade.sourcelink.json
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Trade.csproj.CopyComplete
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Trade.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\refint\Trade.dll
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Trade.pdb
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\Trade.genruntimeconfig.cache
+C:\Users\dibalas\Desktop\Новая папка\ИС\Trade\obj\Debug\net8.0-windows\ref\Trade.dll
